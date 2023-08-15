@@ -1,6 +1,3 @@
-Certainly! Here's the README template in Markdown format that you can directly use on GitHub:
-
-```markdown
 # Project Title
 
 Brief description of the project.

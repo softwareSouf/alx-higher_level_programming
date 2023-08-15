@@ -1,6 +1,8 @@
-# Project Title
+# 0x0D. SQL - Introduction
 
-Brief description of the project.
+For this project, we expect you to look at these concepts:
+Databases
+Databases
 
 ## Learning Objectives
 

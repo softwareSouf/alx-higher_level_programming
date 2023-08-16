@@ -1,4 +1,4 @@
-# MySQL Project - Learning SQL
+# 0x0E. SQL - More queries
 
 ![MySQL Logo](https://www.mysql.com/common/logos/logo-mysql-170x115.png)
 
